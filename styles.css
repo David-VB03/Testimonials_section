@@ -126,7 +126,7 @@ main {
   }
   .first--author {
     grid-area: 1 / 1 / 2 / 3;
-    background-image: url(/images/bg-pattern-quotation.svg);
+    background-image: url(images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
     background-position:87% 0%;
   }
